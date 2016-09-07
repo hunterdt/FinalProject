@@ -1,0 +1,36 @@
+PseudoCode for Final Project
+
+HOMEPAGE:
+Menu:
+-Dropdowns
+--On Hover, show list with links
+--Hide when not hovering
+---animate in and out
+
+Hero Section:
+-Show description on hover
+-Hide when not hovering
+--animate in and out
+
+Featured Section:
+-Possible video carousel
+--Move to next slide at certain intervals
+---Animate
+--Move to next slide or back to previous slide when user clicks button or dot
+
+CONTENT PAGE:
+Content Tabs
+-Hide and show content on tab clicks
+--Change tab style when it is selected
+---Animate
+
+Comment Section:
+-I'm not sure if this is possible to do without a backend. 
+-I'm interested in trying to find out how. 
+
+OTHER POSSIBILITIES:
+-Search?
+-Upload/add files? (depends on backend?)
+-Don't know if it would be possible to set up anything like Socket.io?
+-login/OAuth?
+-Tagging - Taggle.js?
